@@ -1,0 +1,25 @@
+{
+  "name": "naughty-narval",
+  "version": "1.0.0",
+  "description": "Sample of using node.js with Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radek44/naughty-narval.git"
+  },
+  "author": "Radek Dabrowski",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Radek44/naughty-narval/issues"
+  },
+  "homepage": "https://github.com/Radek44/naughty-narval#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
